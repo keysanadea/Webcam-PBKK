@@ -1,0 +1,5 @@
+C:\Users\danin\Downloads\PBKK_Tugas_2_Webcam_App-main\PBKK_Tugas_2_Webcam_App-main\obj\Release\Web Cam App.csproj.AssemblyReference.cache
+C:\Users\danin\Downloads\PBKK_Tugas_2_Webcam_App-main\PBKK_Tugas_2_Webcam_App-main\obj\Release\Web_Cam_App.Form1.resources
+C:\Users\danin\Downloads\PBKK_Tugas_2_Webcam_App-main\PBKK_Tugas_2_Webcam_App-main\obj\Release\Web_Cam_App.Properties.Resources.resources
+C:\Users\danin\Downloads\PBKK_Tugas_2_Webcam_App-main\PBKK_Tugas_2_Webcam_App-main\obj\Release\Web Cam App.csproj.GenerateResource.cache
+C:\Users\danin\Downloads\PBKK_Tugas_2_Webcam_App-main\PBKK_Tugas_2_Webcam_App-main\obj\Release\Web Cam App.csproj.CoreCompileInputs.cache
